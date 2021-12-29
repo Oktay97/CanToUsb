@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\_HW\_Circuit\OksLab_CanToUsb_HW01\OksLab_CanToUsb_HW01.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=okslab_cantousb_hw01-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=okslab_cantousb_hw01-slotholes.txt|DrillLayers=gtl,gbl
